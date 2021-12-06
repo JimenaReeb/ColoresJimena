@@ -1,8 +1,8 @@
 package coloresjimena;
 public class ColoresJimena {
     public static void main(String[] args) {
-        String color1,color2,color3,color4;
-        color1="AZUL";
+        String color1,color2,color3;
+        color1="ROSA";
         color2="ROJO";
         color3="PURPURA";
         color4="MAGENTA";
